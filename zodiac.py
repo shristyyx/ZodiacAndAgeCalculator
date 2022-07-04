@@ -3,7 +3,7 @@ import tkinter.ttk as ttk
 from datetime import date,datetime,time,timedelta
 import calendar
 
-
+#these are zodiac features
 zodiacsd = {
 
          "Aries" : "  Unpredictable, Stubborn, Destructive, Immature",
